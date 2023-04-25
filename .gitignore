@@ -3,3 +3,5 @@ core/
 patchers/
 vplus-data/
 LogOutput.log
+*.dat
+config/advize.PlantEasily.cfg
